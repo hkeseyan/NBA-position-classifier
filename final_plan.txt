@@ -1,0 +1,16 @@
+plan
+-create excel w/ relevant columns
+-aggregate years (if necessary)
+-clean data
+--qualifiers
+-fix position columns
+-place fixed spreadsheet in matlab (pull # of rows as necessary)
+-train classification tree
+-observe outcome of classification tree
+-choose relevant columns
+-combine columns, weight columns
+-refine decision tree
+
+log
+-imported text, to columns, with season, for seasons ending 2010-2016
+-removed PF,DQ,TC,EJ,FF,+- columns
